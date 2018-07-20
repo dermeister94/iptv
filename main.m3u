@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Disney Jr
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8
 
