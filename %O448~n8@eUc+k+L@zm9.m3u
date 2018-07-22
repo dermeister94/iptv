@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF:-1, Tooncast
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Disney Jr
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", Boomerang
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Discovery Investigation
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", Animal Planet
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", History
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", NatGeo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", DISCOVERY CIVIZATION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", DISCOVERY SCIENCE
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", DISCOVERY THEATER HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", DISCOVERY TURBO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA", H2
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", FX
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Film Zone
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", AXN
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", SONY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", TNT
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", TNT Series
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Cinecanal
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Cinelatino
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Space
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Universal Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Multipremier
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Paramount
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", A&amp;amp;E
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Warner Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", TCM
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Cine Dinamita
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", ISAT
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ISAT)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", E
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Life Time
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(03)/index.m3u8
+
+#EXTINF:, SUNDANCE Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", CINEMA PLUS
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMAPLUS)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", FOX ACTION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_ACTION)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", FOX CINEMA HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", FOX CLASSICS HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", FOX ACTION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", FOX COMEDY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", FOX FAMILY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", Max
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", HBO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", HBO SIGNATURE
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", HTV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HTV)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE/SERIES", HBO FAMILY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1, Discovery TLC
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1, MTV [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1, Comedy Central [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,, Fox [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1, Fox Movies [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1, Max Prime [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1, Baby TV HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BABYTV)/Stream(01)/index.m3u8
+
+#EXTINF:-1 ,TELEMUNDO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(01)/index.m3u8
+
+#EXTINF:-1, TL Novelas
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+
+#EXTINF:-1, Eurochannel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(EUROCHANNEL)/Stream(01)/index.m3u8
+
+#EXTINF:-1, Claro Cinema
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CLARO_CINEMA)/Stream(01)/index.m3u8
+
+#EXTINF:-1 , GLITZ
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GLITZ)/Stream(01)/index.m3u8
+
+#EXTINF:-1,tlx
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u
+
+#EXTINF:-1,CDO CHILE (DEPORTES)
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u
+
+#EXTINF:-1, CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u
+
+#EXTINF:-1, MUSIC TOP
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u
+
+#EXTINF:-1,A24
+http://cdn.prepro.cvattv.com.ar/live/live/America24/SA_Live/America24.m3u8
+
+#EXTINF:-1 ,TyC Sports
+http://cdn.prepro.cvattv.com.ar/live/live/TyCSportHD/SA_Live/TyCSportHD.m3u8
+
+#EXTINF:-1 ,Playboy TV
+http://cdn.prepro.cvattv.com.ar/live/live/Playboy/SA_Live/Playboy.m3u8
+
+#EXTINF:-1 ,HBO1
+http://cdn.prepro.cvattv.com.ar/live/live/HBOHD/SA_Live/HBOHD.m3u8
+
+#EXTINF:-1,El TRECE
+http://cdn.prepro.cvattv.com.ar/live/live/ArtearHD/SA_Live/ArtearHD.m3u8
+
+#EXTINF:-1,AMC LATINO HD
+http://cdn.prepro.cvattv.com.ar/live/live/AMCHD/SA_Live/AMCHD.m3u8
+
+#EXTINF:-1,TN
+http://cdn.prepro.cvattv.com.ar/live/live/TodoNoticiasHD/SA_Live/TodoNoticiasHD.m3u8
+
+#EXTINF:-1,FOX Sports
+http://200.89.190.168/live/live/FoxSports/SA_Live/FoxSports.m3u8
+
+#EXTINF:-1,ESPN
+http://200.89.190.168/live/live/ESPN/SA_Live/ESPN.m3u8
+
+#EXTINF:-1 ,TELEFE HD
+http://cdn.prepro.cvattv.com.ar/live/live/TelefeHD/SA_Live/TelefeHD.m3u8
+
+#EXTINF:-1 ,AMERICA TV HD
+http://cdn.prepro.cvattv.com.ar/live/live/AmericaTVHD/SA_Live/AmericaTVHD.m3u8
+
+#EXTINF:-1 ,CRONICA TV HD
+http://cdn.prepro.cvattv.com.ar/live/live/CronicaTV/SA_Live/CronicaTV.m3u8
+
+#EXTINF:-1 ,Cartoon Network HD
+http://cdn.prepro.cvattv.com.ar/live/live/CartoonNetwork/SA_Live/CartoonNetwork.m3u8
+
+#EXTINF:-1 ,Comedy Central HD
+http://cdn.prepro.cvattv.com.ar/live/live/ComedyCentral/SA_Live/ComedyCentral.m3u8
+
+#EXTINF:-1, Gourmet
+http://cdn.prepro.cvattv.com.ar/live/live/Gourmet/SA_Live/Gourmet.m3u8
+
+#EXTINF:-1,FOX Action HD
+http://cdn.prepro.cvattv.com.ar/live/live/FoxActionHD/SA_Live/FoxActionHD.m3u8
+
+#EXTINF:-1,FOX Sports 2 HD
+http://200.89.190.168/live/live/FoxSports2HD/SA_Live/FoxSports2HD.m3u8
+
+#EXTINF:-1,FOX Sports 3 HD
+http://200.89.190.168/live/live/FoxSports3HD/SA_Live/FoxSports3HD.m3u8
+
+#EXTINF:-1,ESPN 2 HD
+http://200.89.190.168/live/live/ESPN2HD/SA_Live/ESPN2HD.m3u8
